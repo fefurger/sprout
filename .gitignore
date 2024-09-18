@@ -5,3 +5,4 @@ app/.env
 static/
 *.ipynb
 webapp.py
+venv/
