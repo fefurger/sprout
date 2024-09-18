@@ -1,0 +1,31 @@
+Dear Sir/Madam,
+
+I am Félix Furger, an Artificial Intelligence focused engineer from EISTI, CY-Tech in France (2020). I am currently relocating to Melbourne and looking for a position in the AI / GenAI field. Please note that I have full working rights in Australia. 
+
+My expertise is deeply rooted in AI, including Machine and Deep Learning (ML/DL), Reinforcement Learning (RL), Explainable AI (XAI), and Natural Language Processing (NLP). I am proficient in Python, familiar with most of the standard ML/DL libraries (tensorflow, scikit-learn, pandas, numpy, …) and used to Linux/Unix environments. In addition to my technical skills, I am fluent in French, English, and Spanish.
+
+My role in Airbus Defence and Space (april 2019 - september 2019, Germany) marked my first significant exposure to AI/ML, particularly in the area of Natural Language Processing (NLP). Although the projects were foundational, they provided valuable insights into the practical applications of NLP. My responsibilities included designing Proof of Concept (PoC) solutions for several projects:
+- Emergency Response Automation: Developed a system to automatically identify the emergency category and populate a summary form based on conversations between emergency operators and callers. The system used Question Answering (QA) techniques to extract critical information, such as the nature of the problem and the number of injured individuals, from speech-to-text transcripts.
+- Cognitive Assistance Chatbot: Created a basic chatbot to assist aircraft and ship pilots by classifying user intents from a predefined set of possibilities. This early-stage chatbot served as a cognitive aid, offering quick, intent-based responses to pilot queries.
+
+My role in Airbus SAS Research Team (september 2019 - september 2020) was my first experience in research, where I gained significant exposure to scientific literature and applied AI methodologies. I contributed to two key projects:
+- Pilot Assistance Chatbot: Developed a chatbot designed to assist pilots in emergency situations by enabling them to efficiently access relevant documents through natural language queries, eliminating the need to manually search through documentation.
+- Reinforcement Learning and Multimodal AI: Designed a solution that integrated Reinforcement Learning (RL) with both language and computer vision. The system took an image of the current environment and a text-based instruction, then generated a new image representing the agent's target state, which was subsequently fed into the RL logic. This image generation was achieved using Conditional Variational Autoencoders (C-VAEs). I consider this project my first exposure to generative AI, prior to the widespread adoption of modern LLMs and diffusion models.
+
+During my time at IRIT (Toulouse Informatics Research Institute, april 2021 - april 2022, Toulouse, France), I focused on developing an autonomous multi-agent system for smart urban lighting solutions. Leveraging real-time traffic data, the system enabled each streetlight to autonomously detect its neighboring streetlights and their relative positions without any prior knowledge of the overall topology.
+With this dynamic understanding of the environment, the streetlights could communicate with each other to share information about incoming traffic, including type and speed. This allowed them to intelligently adjust lighting levels based on specific needs: for example, a pedestrian could be illuminated by a single streetlight, while faster-moving vehicles required coordinated lighting from multiple streetlights to ensure the road ahead remained well-lit.
+
+In my most recent role at INSERM RESTORE (Geroscience research center, january 2023 - may 2024, Toulouse, France), I focused entirely on research in machine learning and artificial intelligence. I worked on three key projects:
+- A traditional age prediction task using biomedical data from blood samples, where I implemented XGBoost regression to predict biological age.
+- An in-depth project on Explainable AI (XAI), where I applied the SHAP library to explain discrepancies between predicted biological age and chronological age, providing insights into accelerated aging in certain individuals. A key challenge in XAI was handling the interactions between features. With 48 features in our model, the number of pairwise interactions increased exponentially, resulting in a tensor of size 48x48x60,000 to visualize—2,256 feature pairs across 60,000 individuals. To overcome this complexity, I developed a graph visualization tool that efficiently captured and presented these interactions, allowing us to explore the dataset in a manageable way.
+- My work on XAI led to a breakthrough in feature selection. I developed a novel approach that is not only competitive with the most accurate existing methods but exponentially faster, drastically reducing computational time. This solution was packaged into a Python module. The work is currently under review for publication in a highly regarded scientific journal, and I remain in contact with my previous team to ensure a smooth publication process.
+
+Concurrently, as LLMs like GPT-4 gained prominence, I incorporated them into my workflow and stayed updated on their developments in my spare time. This growing interest in LLMs and Generative AI is a key reason why this job offer caught my attention. Although I do not yet have professional experience with LlamaIndex or other frameworks from the emerging LLM landscape, I am actively learning and exploring them in my spare time.
+
+Outside of my professional journey, I have tutored in machine learning for several months. Hence, I am familiar with standard classification, clustering, and prediction methods from data sciences.
+
+If my profile aligns with what you are looking for now or in the future, I would be eager to learn more about your work and projects. I look forward to hearing from you.
+
+Warm regards,
+
+Félix Furger

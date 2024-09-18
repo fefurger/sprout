@@ -1,0 +1,74 @@
+Félix Furger
+Artificial Intelligence Engineer 
+Full working rights in Australia
+
++61494093262
+fefurger@hotmail.com
+
+
+STUDIES
+
+2020: Artificial Intelligence & Computer Science Master's Degree 
+2020 dux of class
+EISTI (CY-TECH, CY Cergy Paris University),  PAU, FRANCE
+
+2015 - 2017: Preparatory Classes (CPGE) PTSI/PT*
+CPGE are intensive quality  courses part of the French post-secondary education system
+Mathematics, physics, technology, computer  and engineering science
+Lycée Déodat de Séverac,  TOULOUSE, FRANCE
+
+2015: Science Baccalaureate / Bachiller de Ciencias
+French - Spanish dual degree
+Lycée Saint-Sernin, TOULOUSE, FRANCE
+
+
+SKILLS
+
+Computer Science & AI
+
+Mostly Python (tensorflow, scikit-learn, pandas, shap, flask,  …), UNIX, but also a bit of experience with JavaScript, HTML/CSS
+SQL, MongoDB, Docker
+
+Machine Learning, Deep Learning, Reinforcement Learning, Explainable AI,  NLP, Mono & multi-objectives Optimization
+
+Languages
+
+Native French, fluent English and Spanish
+
+PROFESSIONAL BACKGROUND
+
+INSERM RESTORE (Geroscience research center) — ML/AI Engineer JAN 2023 - MAY 2024 | TOULOUSE, FRANCE
+Machine learning / deep learning  with focus on explainable AI (SHAP) and its application to feature selection, biological age prediction use case, extensive use of LLMs such as GPT-4, scientific paper publication (https://doi.org/10.1111/acel.13872)
+- Python (tensorflow / keras, pandas, scikit-learn, shap, xgboost, …)
+
+IRIT (Toulouse Informatics Research Institute) — ML/AI Engineer APRIL 2021 - APRIL 2022 | TOULOUSE, FRANCE
+Auto-adaptive multi-agent systems, agent cooperation, smart urban lighting, dynamic topology structural reconstruction, scientific paper publication (https://doi.org/10.1007/978-3-031-18192-4_16)
+- Python, GAML / GAMA (multi-agents simulation software)
+
+Airbus SAS — ML/AI Engineering apprenticeship SEPTEMBER 2019 - SEPTEMBER 2020 | TOULOUSE, FRANCE
+Natural language processing, reinforcement learning, language grounding, scientific paper publication (https://arxiv.org/abs/2011.13284)
+- Python (tensorflow / keras, rasa)
+
+Airbus Defence and Space — ML/AI Internship APRIL 2019 - SEPTEMBER 2019 | FRIEDRICHSHAFEN, GERMANY
+Cognitive assistance, natural language processing, speech-to-text, text-to-speech
+- Python (tensorflow / keras, scikit-learn, nltk), HTML / CSS, Docker
+
+PERSONAL PROJECTS (OUTSIDE ACADEMIC WORK)
+
+Conception of a small robot (Seek4Light), trained with reinforcement learning to move towards light sources in order to charge its battery, first in a simulated environment and then, once deployed on an Arduino card equipped with photosensors, in the real world.
+- Python (tensorflow / keras), Arduino
+
+Development and  deployment of a web app for the wildlife photography community in order to share photos or stories, and keep track of one’s wildlife observations (species classification based on the ISIS collaborative database).
+- Python back-end (flask), HTML / CSS, MySQL
+
+Development of a “dictionnary game” in the form of a multi-player web app.
+- Python back-end (flask), HTML / CSS
+
+Development of a 2D game in Python. The player is connected to an Arduino card thanks to electromyography sensors (EMG) so that the player’s physical activity dictates the behavior of the in-game character (runner-type game).
+- Python (pygame), Arduino
+
+Development and  deployment of my wildlife photography portfolio : https://www.felixfurger.com/
+- Python back-end (flask), HTML / CSS
+
+Development and deployment of an AI assistant tasked with showcasing my resume to recruiters
+- Python back-end (flask), LlamaIndex, RAG, HTML / CSS

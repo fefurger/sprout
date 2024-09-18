@@ -2,7 +2,6 @@ __pycache__/*
 app/__pycache__/*
 .env
 app/.env
-data
 static/
 *.ipynb
 webapp.py
